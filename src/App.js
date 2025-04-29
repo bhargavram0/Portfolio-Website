@@ -12,7 +12,7 @@ import Contact from "./components/sections/Contact";
 import Footer from "./components/sections/Footer";
 
 const Body = styled.div`
-  background-Image: url('https://wallpapercave.com/wp/wp5076336.jpg');
+  background-Image: url('https://4kwallpapers.com/images/wallpapers/satoru-gojo--15227.png');
   width: 100%;
   overflow-x: hidden;
   position: relative;
