@@ -232,11 +232,11 @@ export const projects = [
     id: 0,
     title: "Swiggy Clone",
     description:
-      "Developed a Swiggy clone using React.js with features like menu browsing and cart management. Focused on responsiveUI, component-basedarchitecture, and smooth user experience.",
+      "Developed a full-stack Swiggy clone using React.js, Node.js, Express, and MongoDB with features like menu browsing, cart management, JWT authentication, Cloudinary image uploads, and a responsive, component-based UI, and smooth user experience.",
     image:
-      "",
+      "/assects/items/swiggy.jpg",
     tags: ["React.js", "Node.js", "APIs","express.js", "MongoDB", "JWT", "CSS","postman", "Responsive Web Design", "Restful APIs", "Full Stack Development","web application"],
-    link: "",
+    link: "https://swiggy-client-one.vercel.app/",
   },
   {
     id: 1,
